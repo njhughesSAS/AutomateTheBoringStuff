@@ -1,0 +1,6 @@
+bathrooms
+dog
+kitchen
+trash
+ovens
+kill the rabbit
